@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4zPiLqvmgVDe03ETRtD0Po3kcPirXh34YUrwPgKgHnU5vRGYtNMpar1p4m4QOGYKVVjpZXXGCjXieKvmBk34Lw==",
+  "success": true,
+  "projectFilePath": "/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/Projeto.csproj",
+  "expectedPackageFiles": [
+    "/home/krux/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/krux/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/krux/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.32/microsoft.netcore.app.host.linux-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

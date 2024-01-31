@@ -1,0 +1,118 @@
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.csprojAssemblyReference.cache
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.AssemblyInfoInputs.cache
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.AssemblyInfo.cs
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.csproj.CoreCompileInputs.cache
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.MvcApplicationPartsAssemblyInfo.cache
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorAssemblyInfo.cache
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorAssemblyInfo.cs
+/home/krux/Documents/Projeto/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/krux/Documents/Projeto/bin/Debug/netcoreapp3.1/appsettings.json
+/home/krux/Documents/Projeto/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/krux/Documents/Projeto/bin/Debug/netcoreapp3.1/Projeto
+/home/krux/Documents/Projeto/bin/Debug/netcoreapp3.1/Projeto.deps.json
+/home/krux/Documents/Projeto/bin/Debug/netcoreapp3.1/Projeto.runtimeconfig.json
+/home/krux/Documents/Projeto/bin/Debug/netcoreapp3.1/Projeto.runtimeconfig.dev.json
+/home/krux/Documents/Projeto/bin/Debug/netcoreapp3.1/Projeto.dll
+/home/krux/Documents/Projeto/bin/Debug/netcoreapp3.1/Projeto.pdb
+/home/krux/Documents/Projeto/bin/Debug/netcoreapp3.1/Projeto.Views.dll
+/home/krux/Documents/Projeto/bin/Debug/netcoreapp3.1/Projeto.Views.pdb
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.TagHelpers.input.cache
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.TagHelpers.output.cache
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorCoreGenerate.cache
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorTargetAssemblyInfo.cache
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorTargetAssemblyInfo.cs
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.Views.pdb
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/staticwebassets/Projeto.StaticWebAssets.Manifest.cache
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/staticwebassets/Projeto.StaticWebAssets.xml
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.dll
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.pdb
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.genruntimeconfig.cache
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Projeto.csproj.CopyComplete
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Home/Retornodedados.cshtml.g.cs
+/home/krux/Documents/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Home/Suporte.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/appsettings.json
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto.deps.json
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto.runtimeconfig.json
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto.runtimeconfig.dev.json
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto.dll
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto.pdb
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto.Views.dll
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto.Views.pdb
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.csprojAssemblyReference.cache
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.AssemblyInfoInputs.cache
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.AssemblyInfo.cs
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.csproj.CoreCompileInputs.cache
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.MvcApplicationPartsAssemblyInfo.cache
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorAssemblyInfo.cache
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorAssemblyInfo.cs
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.TagHelpers.input.cache
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.TagHelpers.output.cache
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorCoreGenerate.cache
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Home/Retornodedados.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Home/Suporte.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorTargetAssemblyInfo.cache
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorTargetAssemblyInfo.cs
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.Views.pdb
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/staticwebassets/Projeto.StaticWebAssets.Manifest.cache
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/staticwebassets/Projeto.StaticWebAssets.xml
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.dll
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.pdb
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.genruntimeconfig.cache
+/home/krux/Documents/SENAC PDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.csproj.CopyComplete
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/appsettings.json
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto.StaticWebAssets.xml
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto.deps.json
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto.runtimeconfig.json
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto.runtimeconfig.dev.json
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto.dll
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto.pdb
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto.Views.dll
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/bin/Debug/netcoreapp3.1/Projeto.Views.pdb
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.AssemblyInfoInputs.cache
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.AssemblyInfo.cs
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.csproj.CoreCompileInputs.cache
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.MvcApplicationPartsAssemblyInfo.cache
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorAssemblyInfo.cache
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorAssemblyInfo.cs
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.TagHelpers.input.cache
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.TagHelpers.output.cache
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorCoreGenerate.cache
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Home/Retornodedados.cshtml.g.cs
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Home/Suporte.cshtml.g.cs
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorTargetAssemblyInfo.cache
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.RazorTargetAssemblyInfo.cs
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.Views.pdb
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/staticwebassets/Projeto.StaticWebAssets.Manifest.cache
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/staticwebassets/Projeto.StaticWebAssets.Pack.cache
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.Projeto.Microsoft.AspNetCore.StaticWebAssets.props
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.Projeto.props
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.Projeto.props
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.Projeto.props
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.dll
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.pdb
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.genruntimeconfig.cache
+/home/krux/Documents/SENACPDFs/DONE/UC05/AtiDois/Projeto/obj/Debug/netcoreapp3.1/Projeto.csproj.CopyComplete

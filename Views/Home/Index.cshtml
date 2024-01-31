@@ -1,0 +1,32 @@
+﻿@model ItemPedido
+
+@{
+    ViewData["Title"] = "Pedidos";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Pedidos do Restaurante</h1>
+    <p>Insira os itens pedidos e os valores correspondentes abaixo:</p>
+</div>
+
+<form method="POST">
+<p>
+<label>Descrição:</label>
+<input asp-for="descricao"> 
+</p>
+
+<p>
+<label>Valor unitário:</label>
+<input asp-for="valor_unitario"> 
+</p>
+
+<p>
+<label>Quantidade:</label>
+<input asp-for="quantidade"> 
+</p>
+
+<input type="reset" value="Limpar dados">
+<input type="submit" value=Confirmar>
+<p>@ViewBag.Retorno</p>
+
+</form>

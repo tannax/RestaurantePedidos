@@ -1,0 +1,19 @@
+@model List<ItemPedido>
+
+@{
+    ViewData["Title"] = "Pedidos Registrados";
+}
+<h1>Todos os pedidos registrados</h1>
+<p>Registro de todos os pedidos do restaurante:</p>
+@foreach (ItemPedido Registrado in  Model)
+{
+    
+    <b>@Registrado.descricao</b> <br>
+<p>Descrição: @Registrado.descricao </p>
+<p>Valor Unitário: R$ @Registrado.valor_unitario </p>
+<p>Quantidade: @Registrado.quantidade </p>
+<p></p>
+
+}
+
+<h2>Total: R$ @ViewBag.Total</h2>
